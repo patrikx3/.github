@@ -1,10 +1,10 @@
 <!-- AUTO-STATS-START -->
 # Patrik László — Open Source Maintainer
 
-**Polyglot programmer · 26+ years engineering**
+**Polyglot programmer · 42+ years engineering**
 
-### 📊 ~2.7M cumulative downloads
-_(npm last 12 months: 1,615,658 · GitHub releases lifetime: 363,041 · Docker pulls lifetime: 740,291 · auto-updated 2026-05-13)_
+### 📊 ~2.3M cumulative downloads
+_(npm last 12 months: 1,175,194 · GitHub releases lifetime: 363,041 · Docker pulls lifetime: 740,291 · auto-updated 2026-05-13)_
 
 [![p3x-onenote npm](https://img.shields.io/npm/dt/p3x-onenote?label=p3x-onenote&color=cb3837)](https://www.npmjs.com/package/p3x-onenote)
 [![p3x-onenote GitHub](https://img.shields.io/github/downloads/patrikx3/onenote/total?label=p3x-onenote%20GitHub&color=24292f)](https://github.com/patrikx3/onenote/releases)
@@ -20,10 +20,10 @@ Maintainer of **23 npm packages**, **31 GitHub repositories**, **1 Docker Hub im
 | Package | Downloads |
 |---|---|
 | [p3x-redis-ui-material](https://www.npmjs.com/package/p3x-redis-ui-material) | 405,463 |
-| [p3x-redis-ui-server](https://www.npmjs.com/package/p3x-redis-ui-server) | 343,277 |
 | [corifeus-utils](https://www.npmjs.com/package/corifeus-utils) | 337,402 |
 | [p3x-redis-ui](https://www.npmjs.com/package/p3x-redis-ui) | 334,496 |
-| [p3x-xml2json](https://www.npmjs.com/package/p3x-xml2json) | 83,358 |
+| [p3x-onenote](https://www.npmjs.com/package/p3x-onenote) | 20,969 |
+| [corifeus-builder](https://www.npmjs.com/package/corifeus-builder) | 15,717 |
 
 **Top GitHub release downloads (lifetime):**
 
