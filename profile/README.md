@@ -14,7 +14,7 @@ What the hosted version offers:
 - **EU billing** — Stripe Tax + VAT-compliant + EUR-priced (Solo €19.99 / Pro €39.99 / Business €99.99 per month, no lock-in)
 - **GDPR-compliant by default** — browser-language auto-detection, no tracking cookies, your meetings stored encrypted
 
-Try the live demo (1 minute free, no signup) or browse the **public sample meeting** at [meeting.corifeus.com/sample](https://meeting.corifeus.com/sample).
+Try the live demo (15 minute free, no signup) or browse the **public sample meeting** at [meeting.corifeus.com/sample](https://meeting.corifeus.com/sample).
 
 ---
 
