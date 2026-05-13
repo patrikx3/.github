@@ -1,10 +1,10 @@
 <!-- AUTO-STATS-START -->
 # Patrik László — Open Source Maintainer
 
-**27+ years engineering · Node.js · TypeScript · React · MongoDB · Redis · MCP servers**
+**Polyglot programmer · 27+ years engineering**
 
 ### 📊 ~2.7M cumulative downloads
-_(npm last 12 months: 1,615,658 · GitHub releases lifetime: 363,040 · Docker pulls lifetime: 740,290 · auto-updated 2026-05-13)_
+_(npm last 12 months: 1,615,658 · GitHub releases lifetime: 363,041 · Docker pulls lifetime: 740,291 · auto-updated 2026-05-13)_
 
 [![p3x-onenote npm](https://img.shields.io/npm/dt/p3x-onenote?label=p3x-onenote&color=cb3837)](https://www.npmjs.com/package/p3x-onenote)
 [![p3x-onenote GitHub](https://img.shields.io/github/downloads/patrikx3/onenote/total?label=p3x-onenote%20GitHub&color=24292f)](https://github.com/patrikx3/onenote/releases)
@@ -29,7 +29,7 @@ Maintainer of **23 npm packages**, **31 GitHub repositories**, **1 Docker Hub im
 
 | Repo | Downloads |
 |---|---|
-| [onenote](https://github.com/patrikx3/onenote/releases) | 351,341 |
+| [onenote](https://github.com/patrikx3/onenote/releases) | 351,342 |
 | [redis-ui](https://github.com/patrikx3/redis-ui/releases) | 9,759 |
 | [service-manager-tray-for-windows](https://github.com/patrikx3/service-manager-tray-for-windows/releases) | 1,919 |
 | [gitlist](https://github.com/patrikx3/gitlist/releases) | 21 |
@@ -38,7 +38,7 @@ Maintainer of **23 npm packages**, **31 GitHub repositories**, **1 Docker Hub im
 
 | Image | Pulls |
 |---|---|
-| [p3x-redis-ui](https://hub.docker.com/r/patrikx3/p3x-redis-ui) | 740,290 |
+| [p3x-redis-ui](https://hub.docker.com/r/patrikx3/p3x-redis-ui) | 740,291 |
 
 🌐 [patrikx3.com](https://www.patrikx3.com/) · 📧 support@patrikx3.com
 <!-- AUTO-STATS-END -->
