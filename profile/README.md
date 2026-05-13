@@ -1,7 +1,7 @@
 <!-- AUTO-STATS-START -->
 # Patrik László — Open Source Maintainer
 
-**Polyglot programmer · 27+ years engineering**
+**Polyglot programmer · 26+ years engineering**
 
 ### 📊 ~2.7M cumulative downloads
 _(npm last 12 months: 1,615,658 · GitHub releases lifetime: 363,041 · Docker pulls lifetime: 740,291 · auto-updated 2026-05-13)_
